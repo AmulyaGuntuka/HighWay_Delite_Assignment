@@ -66,16 +66,16 @@ Home → Details → Checkout → Result
 ------------------------------------------------------------
 💬 PROMO CODES AVAILABLE
 ------------------------------------------------------------
-WELCOME10 - 10%
-FLAT50 - ₹50
-FESTIVE20 - 20%
-HDADVENTURE15 - 15%
-TRAVEL200 - ₹200
-WEEKEND5 - 5%
-REFER100 - ₹100
-STUDENT25 - 25%
-EARLYBIRD50 - ₹50
-SUPERDEAL30 - 30%
+WELCOME10 - 10% <br>
+FLAT50 - ₹50<br>
+FESTIVE20 - 20%<br>
+HDADVENTURE15 - 15%<br>
+TRAVEL200 - ₹200<br>
+WEEKEND5 - 5%<br>
+REFER100 - ₹100<br>
+STUDENT25 - 25%<br>
+EARLYBIRD50 - ₹50<br>
+SUPERDEAL30 - 30%<br>
 
 ------------------------------------------------------------
 🧰 TECH STACK
@@ -153,13 +153,13 @@ Figma Design: https://www.figma.com/design/8X6E1Ev8YdtZ3erV0Iifvb/HD-booking?nod
 ------------------------------------------------------------
 🏁 FINAL DELIVERABLES
 ------------------------------------------------------------
-✅ Fully working frontend + backend
-✅ Hosted live for review
-✅ Database seeded with sample experiences and promo codes
-✅ Secure user authentication
-✅ Full booking flow integrated (Home → Details → Checkout → Result)
-✅ Figma design replicated using TailwindCSS
-✅ README with clear setup instructions
+✅ Fully working frontend + backend<br>
+✅ Hosted live for review<br>
+✅ Database seeded with sample experiences and promo codes<br>
+✅ Secure user authentication<br>
+✅ Full booking flow integrated (Home → Details → Checkout → Result)<br>
+✅ Figma design replicated using TailwindCSS<br>
+✅ README with clear setup instructions<br>
 
 ------------------------------------------------------------
 👩‍💻 DEVELOPED BY
