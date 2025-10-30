@@ -1,6 +1,13 @@
 const mongoose = require('mongoose');
 const express = require('express');
-const cors = require('cors');
+app.use(cors({
+  origin: [
+    'http://localhost:5173',                     // local frontend
+    'https://high-way-delite-assignment.vercel.app'  // deployed frontend
+  ],
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  credentials: true
+}));
 require('dotenv').config();
 
 const experiencesRouter = require('./routes/experiences');
